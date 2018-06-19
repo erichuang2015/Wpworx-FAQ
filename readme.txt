@@ -1,6 +1,6 @@
 === WPWorx FAQs ===
 
-Contributors: Xtreem Solution
+Contributors: WpWork
 Tags: faq, faqs, frequently asked questions, faq widget, questions, woocommerce faq, free, faq plugin
 Requires at least: 3.8
 Tested up to: 4.9.6
